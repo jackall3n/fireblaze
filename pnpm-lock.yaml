@@ -39,7 +39,7 @@ devDependencies:
     version: 1.0.2
   firebase-tools:
     specifier: ^13.5.0
-    version: 13.5.0
+    version: 13.5.2
   start-server-and-test:
     specifier: ^2.0.3
     version: 2.0.3
@@ -3046,8 +3046,8 @@ packages:
       - supports-color
     dev: false
 
-  /firebase-tools@13.5.0:
-    resolution: {integrity: sha512-QzBmZvaInABfxcBhRT2tenWrvV+WsLIvWwyGS7ta+5uNJH1zdUTx53oA6cciZus5AZwlfN3qy6tJrZdzf0oJug==}
+  /firebase-tools@13.5.2:
+    resolution: {integrity: sha512-Kpm+eIaSSKu1s2PPTWE303NBN/wQgUbn9lqQyWCwwY1tel+HbdlEcfXlv+R5WkvMS8dQXethKp+wetFxpWtFgw==}
     engines: {node: '>=18.0.0 || >=20.0.0'}
     hasBin: true
     dependencies:
@@ -5508,7 +5508,7 @@ packages:
     resolution: {integrity: sha512-AwAuY4g9nxx0u52DnSMkqqgyLHaW/XaPLtaAo3y/ZCfeaQB/g4YDH4kb8Wc/mWzWvu0YjOznVnfn373MVZZrgw==}
     engines: {node: '>=12.0.0'}
     dependencies:
-      protobufjs: 7.2.4
+      protobufjs: 7.2.6
     dev: true
 
   /proto3-json-serializer@2.0.1:
